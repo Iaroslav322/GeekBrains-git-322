@@ -15,3 +15,5 @@
 # git branch new_branch_name
 Создать новую ветку можно с помощью параметра branch, указав имя ветки.
 # git checkout -b new_branch_name
+ Для автоматического перехода нужно добавить флаг -b и параметр checkout.
+ 
